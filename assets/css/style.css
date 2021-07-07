@@ -99,6 +99,10 @@ Start Hero Section
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
+-o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: top;
+       object-position: top;
 
 }
 
